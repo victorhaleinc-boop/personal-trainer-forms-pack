@@ -1,6 +1,8 @@
 {
-  "provider": "github",
-  "status": "check_logs",
-  "repo_url": null,
+  "provider": "github-pages",
+  "status": "live",
+  "repo_url": "https://github.com/victorhaleinc-boop/personal-trainer-forms-pack",
+  "url": "https://victorhaleinc-boop.github.io/personal-trainer-forms-pack/",
+  "guide_url": "https://victorhaleinc-boop.github.io/personal-trainer-forms-pack/personal-trainer-forms-checklist.html",
   "folder": "C:\\Users\\mards\\Desktop\\entrepreneur_agent\\workspace\\products\\personal_trainer_forms_pack\\site"
 }
